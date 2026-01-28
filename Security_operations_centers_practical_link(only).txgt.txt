@@ -1,0 +1,63 @@
+practical 1
+a. Encrypting and Decrypting Data Using a Hacker Tool
+https://itexamanswers.net/9-1-1-7-lab-encrypting-and-decrypting-data-using-a-hacker-tool-instructor-version.html
+
+b. Encrypting and Decrypting Data Using OpenSSL
+https://itexamanswers.net/9-1-1-6-lab-encrypting-and-decrypting-data-using-openssl-instructor-version.html
+
+c. Hashing a Text File with OpenSSL and Verifying Hashes
+https://www.studocu.vn/vn/document/truong-dai-hoc-fpt/cyberops-associate/21-lab-2116/75929783
+
+practical 2
+a. Examining Telnet and SSH in Wireshark
+https://itexamanswers.net/9-1-1-8-lab-examining-telnet-and-ssh-in-wireshark-instructor-version.html
+
+b. Investigating an Attack on a Windows Host
+https://itexamanswers.net/27-2-16-lab-investigating-an-attack-on-a-windows-host-answers.html
+
+c. Investigating a Malware Exploit
+https://itexamanswers.net/27-2-15-lab-investigating-a-malware-exploit-answers.html
+
+practical 3
+a. Demonstrate the use of Snort and Firewall Rules
+https://itexamanswers.net/26-1-7-lab-snort-and-firewall-rules-answers.html
+
+b. Demonstrate Extract an Executable from a PCAP
+https://itexamanswers.net/27-2-10-lab-extract-an-executable-from-a-pcap-answers.html
+
+c. Demonstrate a practical for Exploring DNS Traffic
+https://itexamanswers.net/17-1-7-lab-exploring-dns-traffic-answers.html
+
+practical 4
+a. Using Wireshark to Examine HTTP and HTTPS Traffic
+https://itexamanswers.net/10-6-7-lab-using-wireshark-to-examine-http-and-https-traffic-answers.html
+
+b. Exploring Processes, Threads, Handles, and Windows Registry
+https://itexamanswers.net/3-2-11-lab-exploring-processes-threads-handles-and-windows-registry-answers.html
+
+practical 5
+5 Perform a practical to Attack on a mySQL Database by using PCAP file.
+https://www.youtube.com/watch?v=Zb5jNjAQ80Q
+
+practical 6
+Create your own syslog Server
+https://www.dnsstuff.com/how-to-setup-a-syslog-server
+
+practical 7
+Configure your Linux system to send syslog messages to a syslog server and Read them
+https://medium.com/@AustinNewtonTech/configuring-a-syslog-server-and-forwarding-linux-host-logs-3b782c7baa0f
+
+
+
+practical 8
+Install and Run Splunk on Linux 
+https://help.splunk.com/en/splunk-enterprise/get-started/install-and-upgrade/9.4/install-splunk-enterprise-on-linux-or-macos/install-on-linux
+
+practical 9
+Install and Configure ELK on Linux 
+https://dev.to/waji97/setting-up-elk-stack-in-linux-18od
+
+
+practical 10 
+Install and Configure GrayLog on Linux
+https://go2docs.graylog.org/current/downloading_and_installing_graylog/ubuntu_installation.htm
